@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=AXEL NODE
+Comment=Start AXEL NODE Smart Cart AI
+Exec=bash -c "cd /home/rpi/axelnode_rpi && ./scripts/start_all.sh"
+Icon=video-display
+Terminal=true
+Categories=Utility;
+X-KeepTerminal=true

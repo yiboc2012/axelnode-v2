@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Pi Camera
+Comment=Start USB Camera Server
+Exec=/home/rpi/camera_server/start_camera.sh
+Icon=camera-video
+Terminal=true
+Type=Application
+Categories=Utility;
+Path=/home/rpi/camera_server
